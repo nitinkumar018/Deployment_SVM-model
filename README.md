@@ -7,10 +7,11 @@
 ## Implement a basic SVM classifier using Python libraries like scikit-learn.
 ## Train the SVM model on the training data.
 ## Evaluate model performance on the testing data using appropriate metrics (e.g., accuracy, precision, recall, F1-score).
-
-# Visualize classification results on the testing data (plot decision boundaries)
-
+## Visualize classification results on the testing data (plot decision boundaries)
 ## Parameter Tuning and Optimization
 ## Compare SVM performance with various kernels (e.g., linear, polynomial, radial basis function).
 ## Analyze SVM strengths and weaknesses for the Mushroom dataset based on EDA and visualization results.
 ## Discuss practical implications of SVM in real-world classification tasks.
+
+# Deployment with Streamlit
+## In this task, we will deploy our model using Streamlit. The deployment can be done locally or online via Streamlit Share. Our task includes creating a Streamlit app in Python that involves loading our trained model and setting up user inputs for predictions.
